@@ -10,11 +10,11 @@ baseurl: /my-notes
 title:            My Notes
 tagline:          'The Faintest Ink is More Powerful Than the Strongest Memory'
 description:      'A website to keep track of things I am learning. Original Theme by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>. Subsequent changes by <a href="https://twitter.com/jeel-shah" target="_blank">@jeel-shah</a>'
-url:              http://jeel-shah.github.io/my-notes/
+url:              http://jeel-shah.github.io/
 
 author:
   name:           'Jeel Shah'
-  url:            http://jeel-shah.github.io/my-notes/
+  url:            http://jeel-shah.github.io/
 
 paginate:         5
 
