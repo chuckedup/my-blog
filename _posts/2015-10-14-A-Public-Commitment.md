@@ -21,7 +21,7 @@ some source code through [github](http://github.com/jeel-shah) of the programs I
 make. Furthermore, I will try to devise or find an end of course project to
 apply the principles I learned throughout the course. 
 
-##### What I am Taking Currently and I Intend to Take 
+##### What I am Taking Currently and What I Intend to Take 
 
 Currently I am taking [MIT
 6.006](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011)
