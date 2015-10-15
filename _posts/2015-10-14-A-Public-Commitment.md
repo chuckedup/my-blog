@@ -42,7 +42,8 @@ The reason why I have chosen these is because I know _very little_ about all of
 these things, especially the first couple. Some of the others I have chosen
 because they sound cool, luckily I have the luxury of doing that.
 
-##### Some Rules for Myself ###### Or, A Way Out if the Course Sucks
+##### Some Rules for Myself 
+###### Or, A Way Out if the Course Sucks
 
 I intend to complete every course I enroll in, however if the course sucks in
 the sense that I am not liking the content or the way it is taught then I have
