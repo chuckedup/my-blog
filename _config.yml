@@ -4,17 +4,17 @@ pygments:         true
 
 # Permalinks
 permalink:        pretty
-baseurl: /my-notes
+baseurl: /my-blog
 
 # Setup
-title:            My Notes
-tagline:          'The Faintest Ink is More Powerful Than the Strongest Memory'
-description:      'A website to keep track of things I am learning. Original Theme by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>. Subsequent changes by <a href="https://twitter.com/jeel-shah" target="_blank">@jeel-shah</a>'
-url:              http://jeel-shah.github.io/
+title:            Movies and shit
+tagline:          'Or, Find A Better Title'
+description:      'For movies and things. Original Theme by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://chuckedup.github.io/
 
 author:
   name:           'Jeel Shah'
-  url:            http://jeel-shah.github.io/
+  url:            http://chuckedup.github.io/
 
 paginate:         5
 
@@ -22,4 +22,4 @@ paginate:         5
 version:          1.0.0
 
 github:
-  repo:           https://github.com/Jeel-Shah/my-notes
+  repo:           http://chuckedup.github.io/my-blog
